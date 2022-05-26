@@ -28,3 +28,5 @@ It's a chat application done during my internship with Capgemini and this applic
 
 ---Users can log out from the app whenever selected.
 
+Here is the link for it's backend
+https://github.com/kashyap-singh/Chat_Application_Backend_Sprint2
